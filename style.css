@@ -921,11 +921,13 @@ img{
     }
 }
 
-@media screen and (min-width: 2048px){
-    html{
-        zoom: 1.4;
+@media screen and (min-width: 1919px){
+    .container{
+        max-width: 2048px;
+        margin-inline: 4rem;
     }
 }
+
 
 
 
